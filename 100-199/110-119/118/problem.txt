@@ -1,0 +1,4 @@
+This problem was asked by Google.
+
+Given a sorted list of integers, square the elements and give the output in
+sorted order.
